@@ -12,7 +12,6 @@ But you might be thinking:
 
 Let’s walk through a few public-facing systems that exhibit **agentic behavior** — as far as we can tell.
 
-
 ⚠️ **Note:**  
 These aren’t open source. We don’t know their exact internals.  
 What follows is an informed simplification based on how they behave externally — just enough to understand how the agentic stack might show up in practice.
